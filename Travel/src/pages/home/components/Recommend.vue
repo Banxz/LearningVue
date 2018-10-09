@@ -30,7 +30,7 @@ export default {
 </script>
 
 <style lang="stylus" scoped>
-  @import '~styles/mixins.styl'
+  @import '~style/mixins.styl'
   .title
     margin-top: .2rem
     line-height: .8rem
